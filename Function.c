@@ -19,7 +19,9 @@ void(){
 			*Ngay lap tuc ket thuc ham do va tra ve gia tri cua ham
 			*Gia tri tra ve gom: hang(constant), bien(variable), bieu thuc(Expression), gia tri luan ly(Logical value)
 			*Chi co the tra ve mot gia tri
-	
+		*Bien global:
+			*Bien duoc khai bao trong ham chi co the su dung trong ham
+			*khai bao bien golbal bang cach khai bao ben ngoai tat ca cac ham
 			
 			
 			
